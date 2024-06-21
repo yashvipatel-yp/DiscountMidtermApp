@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{35155056-CE8C-40D7-8AEE-48AEAA6F12BD}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{35155056-CE8C-40D7-8AEE-48AEAA6F12BD}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LaptopDiscount FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LaptopDiscount PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
